@@ -13,3 +13,8 @@ Supported the rollout of the **New Mexico Broadband Mapping and Data Hub** (http
 - Compiled and constructed a grant funding data set of all essential information (Providers, Projects, Funding, Fiber Miles, spatial information) from numerous data sources. Used as an input for the **Grants for NM Broadband** application (https://experience.arcgis.com/experience/fa07c9e3b6e348b9b7b3279353fa810a).
 
 ## Personal Projects
+
+## University Projects
+Prioritizing streams: The impacts of in-kind mitigation rules on an ecosystem offset market
+- We studied a novel, in-kind stream mitigation policy in Texas’s Upper Trinity River Basin. We found this policy, the Stream Mitigation Method (SMM), spawned an enduring stream mitigation market.
+- https://www.sciencedirect.com/science/article/abs/pii/S1462901122000491
