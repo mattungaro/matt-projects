@@ -10,7 +10,7 @@ Supported the rollout of the **Mainstream New Mexico Water Planning Application*
 ### Work with the New Mexico Office of Broadband Access and Expansion
 Supported the rollout of the **New Mexico Broadband Mapping and Data Hub** (https://maps.connect.nm.gov/)
 - Designed and constructed version 1.
-- Compiled and constructed a grant funding data set of all essential information (Providers, Projects, Funding, Fiber Miles, spatial information) from numerous data sources. Used as an input for the **Grants for NM Broadband** application (https://experience.arcgis.com/experience/fa07c9e3b6e348b9b7b3279353fa810a).
+- Compiled and constructed a grant funding data set of all essential information (Providers, Projects, Funding, Fiber Miles, spatial information) from numerous data sources. Used for the **Grants for NM Broadband** application (https://experience.arcgis.com/experience/fa07c9e3b6e348b9b7b3279353fa810a).
 
 ## Personal Projects
 Coming Soon
