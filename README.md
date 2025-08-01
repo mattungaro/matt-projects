@@ -15,6 +15,7 @@ Supported the rollout of the **New Mexico Broadband Mapping and Data Hub** (http
 ## Personal Projects
 
 ## University Projects
-Prioritizing streams: The impacts of in-kind mitigation rules on an ecosystem offset market
+_Prioritizing streams: The impacts of in-kind mitigation rules on an ecosystem offset market
+_
 - We studied a novel, in-kind stream mitigation policy in Texas’s Upper Trinity River Basin. We found this policy, the Stream Mitigation Method (SMM), spawned an enduring stream mitigation market.
 - https://www.sciencedirect.com/science/article/abs/pii/S1462901122000491
