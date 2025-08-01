@@ -13,6 +13,7 @@ Supported the rollout of the **New Mexico Broadband Mapping and Data Hub** (http
 - Compiled and constructed a grant funding data set of all essential information (Providers, Projects, Funding, Fiber Miles, spatial information) from numerous data sources. Used as an input for the **Grants for NM Broadband** application (https://experience.arcgis.com/experience/fa07c9e3b6e348b9b7b3279353fa810a).
 
 ## Personal Projects
+Coming Soon
 
 ## University Projects
 _Prioritizing streams: The impacts of in-kind mitigation rules on an ecosystem offset market_
